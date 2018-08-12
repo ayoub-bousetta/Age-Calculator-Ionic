@@ -6,12 +6,8 @@ Just a simple age calculator in arabic based on ionic 3 that makes you know how 
 
 Preview Pics
 
-```
-![alt text](https://raw.githubusercontent.com/ayoub-bousetta/Age-Calculator-Ionic/master/imagespreview/s1.png)
-![alt text](https://raw.githubusercontent.com/ayoub-bousetta/Age-Calculator-Ionic/master/imagespreview/s2.png)
-![alt text](https://raw.githubusercontent.com/ayoub-bousetta/Age-Calculator-Ionic/master/imagespreview/s3.png)
+![s1](https://user-images.githubusercontent.com/6423366/44003747-f90f1834-9e4f-11e8-954d-01c773651d61.png)
 
-```
 
 ## Author
 
