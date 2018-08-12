@@ -1,0 +1,7 @@
+{
+  "name": "ageapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

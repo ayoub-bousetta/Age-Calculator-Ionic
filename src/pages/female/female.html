@@ -1,0 +1,54 @@
+<ion-content center text-center no-bounce>
+
+
+        <img src="../../assets/imgs/headtopgirl.png" alt="">
+
+            <ion-item center margin-top>
+                <ion-label stacked>تاريخ اليوم</ion-label>
+               <ion-input disabled="true"  name="todaysDate" value="{{todaysDate}}"></ion-input> 
+               
+              </ion-item>
+
+        <ion-item center>
+            <ion-label stacked>تاريخ الميلاد</ion-label>
+            <ion-datetime id="female" cancelText="إلغاء" doneText="تأكيد" [(ngModel)]="birthdate"  displayFormat="DD-M-YYYY" name="birthdate" required ></ion-datetime>
+          </ion-item>
+
+        
+
+              <button  margin-top ion-button round outline (click)="GetAge()">أحسب العمر</button>
+
+        
+          <div class="box" margin-top  margin-bottom margin-left margin-right  *ngIf="iscalculated==true; else errorMsg"  >
+          
+      
+           <p margin-top class="tophead">قضيتي في هده الحياة</p>
+              <ion-list padding>
+                <p><span> {{ yearsdiff }} </span> سنة </p>
+                <p><span> {{ monthsdiff }} </span> اشهر    </p>
+                <p><span> {{ daysdiff }} </span> يوم </p> </ion-list>
+                <p *ngIf="msg"  class="hb"> {{ msg }} </p>
+               
+           
+                    <p class="tophead"> تبقى لعيد ميلادك المقبل</p>
+
+                    <ion-list *ngIf="dob" >
+                        <p><span> {{ dob }} </span> : يوم  </p>
+                        </ion-list>
+
+             
+
+          </div>
+
+          <ng-template #errorMsg>
+              <ion-list *ngIf="msg"  padding>
+                  <p> {{ msg }} </p>
+                  </ion-list>
+            
+            </ng-template>
+          
+        
+
+
+</ion-content>
+

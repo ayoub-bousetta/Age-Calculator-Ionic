@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 695 477">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcb1d;
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 40px;
+        font-family: FarCasablanca, "Far.Casablanca";
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #ffcb1d;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        opacity: 0.37;
+      }
+
+      .cls-5 {
+        opacity: 0.49;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        filter: url(#Path_1);
+      }
+    </style>
+    <filter id="Path_1" x="0" y="0" width="695" height="477" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(93 41)">
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, -93, -41)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-1" d="M1108,694l55-61,20,30,43-22,48,22,40-22,41,38,28-30,21,45,63-53,32,96,202-280-212-77H1024V839Z" transform="translate(-1015 -377)"/>
+    </g>
+    <text id="أختر_جنسك" data-name="أختر جنسك" class="cls-2" transform="translate(96 141)"><tspan x="0" y="0">أختر جنسك</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-3" transform="translate(130 63)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M1222.5,837.27V823.891l9.621-9.621,9.621,9.621V837.27Z" transform="translate(-1154 -654.27)"/>
+    <line id="Line_1" data-name="Line 1" class="cls-3" x2="38" transform="translate(49.5 48.5)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M1170,907v26l11.683-6.6L1193,920l-11.561-6.534Z" transform="translate(-969 -725)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-4" transform="translate(137 168)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-3" transform="translate(265 157)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <path id="Path_4" data-name="Path 4" class="cls-5" d="M1222.5,837.27V823.891l9.621-9.621,9.621,9.621V837.27Z" transform="translate(-981 -759.27)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-3" d="M1222.5,837.27V823.891l9.621-9.621,9.621,9.621V837.27Z" transform="translate(-1192 -722.27)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-3" d="M1170,907v26l11.683-6.6L1193,920l-11.561-6.534Z" transform="translate(-887 -892)"/>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-4" transform="translate(147 15)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-3" transform="translate(318 63)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-3" transform="translate(16 7)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-3" transform="translate(11 192)">
+      <circle class="cls-6" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-7" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <path id="Path_7" data-name="Path 7" class="cls-3" d="M1170,907v26l11.683-6.6L1193,920l-11.561-6.534Z" transform="translate(-863 -700)"/>
+  </g>
+</svg>

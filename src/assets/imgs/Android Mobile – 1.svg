@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 640">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Android_Mobile_1);
+      }
+
+      .cls-11, .cls-2 {
+        fill: #51b2fd;
+      }
+
+      .cls-2 {
+        opacity: 0.8;
+      }
+
+      .cls-13, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #ffcb1d;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        opacity: 0.37;
+      }
+
+      .cls-10, .cls-5, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #676767;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-11, .cls-7, .cls-8 {
+        font-family: FarCasablanca, "Far.Casablanca";
+      }
+
+      .cls-8 {
+        fill: #aeaeae;
+      }
+
+      .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-10 {
+        stroke: #51b2fd;
+      }
+
+      .cls-11 {
+        font-size: 16px;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-15 {
+        filter: url(#Path_8);
+      }
+
+      .cls-16 {
+        filter: url(#Path_1);
+      }
+    </style>
+    <filter id="Path_1" x="-93" y="-206" width="695" height="477" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_8" x="111.381" y="498.086" width="279.697" height="211.456" filterUnits="userSpaceOnUse">
+      <feOffset dy="-8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="107" y="264" width="165" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Android_Mobile_1">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Android_Mobile_1" data-name="Android Mobile – 1" class="cls-1">
+    <rect class="cls-5" width="360" height="640"/>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-2" d="M1108,694l55-61,20,30,43-22,48,22,40-22,41,38,28-30,21,45,63-53,32,96,202-280-212-77H1024V839Z" transform="translate(-1108 -583)"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M1222.5,837.27V823.891l9.621-9.621,9.621,9.621V837.27Z" transform="translate(-1154 -819.27)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M1170,907v26l11.683-6.6L1193,920l-11.561-6.534Z" transform="translate(-969 -890)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-4" transform="translate(137 3)">
+      <circle class="cls-12" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-13" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-3" transform="translate(265 -8)">
+      <circle class="cls-12" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-13" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-3" transform="translate(11 27)">
+      <circle class="cls-12" cx="14.5" cy="14.5" r="14.5"/>
+      <circle class="cls-13" cx="14.5" cy="14.5" r="12.5"/>
+    </g>
+    <path id="Path_7" data-name="Path 7" class="cls-3" d="M1170,907v26l11.683-6.6L1193,920l-11.561-6.534Z" transform="translate(-863 -865)"/>
+    <g class="cls-15" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_8-2" data-name="Path 8" class="cls-5" d="M1054.2,492.891l19.774-21.931,7.191,10.786,15.46-7.91,17.257,7.91,14.381-7.91L1143,487.5l10.067-10.786,7.55,16.179,22.65-19.055,11.5,34.515L1267.4,407.684,1191.18,380H1024V545.023Z" transform="translate(1444.76 931.25) rotate(173)"/>
+    </g>
+    <text id="Ayoub_Bousetta_-_2018" data-name="Ayoub Bousetta - 2018" class="cls-6" transform="translate(206 624)"><tspan x="0" y="0">Ayoub Bousetta - 2018</tspan></text>
+    <text id="عن_التطبيق" data-name="عن التطبيق" class="cls-7" transform="translate(40 620)"><tspan x="0" y="0">عن التطبيق</tspan></text>
+    <text id="تاريخ_اليوم_." data-name="تاريخ اليوم ." class="cls-8" transform="translate(150 126)"><tspan x="0" y="0">تاريخ اليوم</tspan><tspan y="0" xml:space="preserve"> .</tspan></text>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-9" transform="translate(45 144)">
+      <rect class="cls-12" width="283" height="33"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="282" height="32"/>
+    </g>
+    <text id="تاريخ_ميلادك" data-name="تاريخ ميلادك" class="cls-8" transform="translate(150 205)"><tspan x="0" y="0">تاريخ ميلادك</tspan></text>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-9" transform="translate(45 223)">
+      <rect class="cls-12" width="283" height="33"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="282" height="32"/>
+    </g>
+    <g class="cls-14" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_3-2" data-name="Rectangle 3" class="cls-10" transform="translate(116 270)">
+        <rect class="cls-12" width="147" height="33" rx="16.5"/>
+        <rect class="cls-13" x="0.5" y="0.5" width="146" height="32" rx="16"/>
+      </g>
+    </g>
+    <text id="أحسب_العمر" data-name="أحسب العمر" class="cls-11" transform="translate(190 292)"><tspan x="-33.363" y="0">أحسب العمر</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-9" transform="translate(11 341)">
+      <rect class="cls-12" width="325" height="74" rx="36"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="324" height="73" rx="35.5"/>
+    </g>
+  </g>
+</svg>
